@@ -33,8 +33,8 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 |------|----------|----------|
 | **Bitcoin (BTC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg" width="40"/> | [BTC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg) |
 | **Ethereum (ETH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg" width="40"/> | [ETH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg) |
-| **Solana (SOL)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SOL.svg" width="40"/> | [SOL.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SOL.svg) |
-| **Polygon (MATIC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MATIC.svg" width="40"/> | [MATIC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MATIC.svg) |
+| **Ripple (XRP)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg" width="40"/> | [XRP.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg) |
+| **BNB ** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg" width="40"/> | [BNB.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg) |
 
 > 🧩 Add more logos in the same format under the `/Logos` directory and update this table.
 
