@@ -49,7 +49,6 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **MONERO (XMR)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg" width="40"/> | [XMR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg) |
 | **VECHAIN (VET)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/VET.svg" width="40"/> | [VET.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/VET.svg) |
 | **TRON (TRX)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRX.svg" width="40"/> | [TRX.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRX.svg) |
-| **CARDANO (ADA)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ADA.svg" width="40"/> | [ADA.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ADA.svg) |
 | **COSMOS (ATOM)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ATOM.svg" width="40"/> | [ATOM.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ATOM.svg) |
 | **UNISWAP (UNI)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/UNI.svg" width="40"/> | [UNI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/UNI.svg) |
 | **STELLAR (XLM)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XLM.svg" width="40"/> | [XLM.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XLM.svg) |
