@@ -35,6 +35,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **AVALANCHE (AVAX)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/AVAX.svg" width="40"/> | [AVAX.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/AVAX.svg) |
 | **Bitcoin (BTC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg" width="40"/> | [BTC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg) |
 | **Ethereum (ETH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg" width="40"/> | [ETH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg) |
+| **HYPE** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HYPE.svg" width="40"/> | [HYPE.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HYPE.svg) |
 | **Ripple (XRP)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg" width="40"/> | [XRP.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg) |
 | **BNB** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg" width="40"/> | [BNB.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg) |
 
