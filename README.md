@@ -31,6 +31,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 
 | Coin | Preview | CDN Link |
 |------|----------|----------|
+| **AVALANCHE (AVAX)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ADA.svg" width="40"/> | [ADA.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ADA.svg) |
 | **AVALANCHE (AVAX)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/AVAX.svg" width="40"/> | [AVAX.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/AVAX.svg) |
 | **BITCOIN CASH (BCH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BCH.svg" width="40"/> | [BCH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BCH.svg) |
 | **BNB** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg" width="40"/> | [BNB.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg) |
