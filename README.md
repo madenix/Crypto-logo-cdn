@@ -29,7 +29,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 
 ## 💎 Available Crypto Logos
 
-<img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ADA.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ADA.svg" width="50"/>
 
 | Coin | Preview | CDN Link |
 |------|----------|----------|
