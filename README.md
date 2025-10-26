@@ -27,7 +27,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 
 ---
 
-## 💎 Available Logos
+## 💎 Available Crypto Logos
 
 | Coin | Preview | CDN Link |
 |------|----------|----------|
