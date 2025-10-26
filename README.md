@@ -36,23 +36,31 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **BITCOIN CASH (BCH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BCH.svg" width="40"/> | [BCH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BCH.svg) |
 | **BNB** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg" width="40"/> | [BNB.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg) |
 | **BITCOIN (BTC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg" width="40"/> | [BTC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg) |
-| **ETHEREUM (ETH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg" width="40"/> | [ETH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg) |
-| **HYPE** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HYPE.svg" width="40"/> | [HYPE.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HYPE.svg) |
-| **XRP (Ripple)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg" width="40"/> | [XRP.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg) |
-| **LITECOIN (LTC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LTC.svg" width="40"/> | [LTC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LTC.svg) |
-| **SOLANA (SOL)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SOL.svg" width="40"/> | [SOL.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SOL.svg) |
-| **TETHER (USDT)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg" width="40"/> | [USDT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg) |
+| **DAI** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DAI.svg" width="40"/> | [DAI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DAI.svg) |
 | **DOGECOIN (DOGE)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOGE.svg" width="40"/> | [DOGE.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOGE.svg) |
 | **POLKADOT (DOT)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOT.svg" width="40"/> | [DOT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOT.svg) |
+| **ETHEREUM (ETH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg" width="40"/> | [ETH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg) |
+| **FIL** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/FIL.svg" width="40"/> | [FIL.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/FIL.svg) |
+| **HBAR** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HBAR.svg" width="40"/> | [HBAR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HBAR.svg) |
+| **HYPE** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HYPE.svg" width="40"/> | [HYPE.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HYPE.svg) |
+| **ICP** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ICP.svg" width="40"/> | [ICP.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ICP.svg) |
+| **LEO** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LEO.svg" width="40"/> | [LEO.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LEO.svg) |
+| **LINK** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LINK.svg" width="40"/> | [LINK.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LINK.svg) |
+| **LITECOIN (LTC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LTC.svg" width="40"/> | [LTC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LTC.svg) |
+| **MNT** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MNT.svg" width="40"/> | [MNT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MNT.svg) |
+| **NEAR** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/NEAR.svg" width="40"/> | [NEAR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/NEAR.svg) |
 | **SHIBA INU (SHIB)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SHIB.svg" width="40"/> | [SHIB.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SHIB.svg) |
-| **CHAINLINK (LINK)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LINK.svg" width="40"/> | [LINK.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LINK.svg) |
-| **MONERO (XMR)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg" width="40"/> | [XMR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg) |
-| **VECHAIN (VET)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/VET.svg" width="40"/> | [VET.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/VET.svg) |
-| **TRON (TRX)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRX.svg" width="40"/> | [TRX.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRX.svg) |
-| **COSMOS (ATOM)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ATOM.svg" width="40"/> | [ATOM.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ATOM.svg) |
-| **UNISWAP (UNI)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/UNI.svg" width="40"/> | [UNI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/UNI.svg) |
+| **SOLANA (SOL)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SOL.svg" width="40"/> | [SOL.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SOL.svg) |
+| **SUI** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SUI.svg" width="40"/> | [SUI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SUI.svg) |
+| **TON** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TON.svg" width="40"/> | [TON.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TON.svg) |
+| **TRON (TRX)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRON.svg" width="40"/> | [TRON.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRON.svg) |
+| **USDC** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDC.svg" width="40"/> | [USDC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDC.svg) |
+| **TETHER (USDT)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg" width="40"/> | [USDT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg) |
+| **USDe** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDe.svg" width="40"/> | [USDe.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDe.svg) |
 | **STELLAR (XLM)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XLM.svg" width="40"/> | [XLM.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XLM.svg) |
-| **ZCASH (ZEC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ZEC.svg" width="40"/> | [ZEC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ZEC.svg) |
+| **MONERO (XMR)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg" width="40"/> | [XMR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg) |
+| **XRP (Ripple)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg" width="40"/> | [XRP.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg) |
+| **ZEC** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ZEC.svg" width="40"/> | [ZEC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ZEC.svg) |
 
 > 🧩 Add more logos in the same format under the `/Logos` directory and update this table.
 
