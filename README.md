@@ -58,6 +58,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **BITTENSOR (TAO)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TAO.svg" width="40"/> | [TAO.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TAO.svg) |
 | **TON** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TON.svg" width="40"/> | [TON.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TON.svg) |
 | **TRON (TRX)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRON.svg" width="40"/> | [TRON.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/TRON.svg) |
+| **UNISWAP (UNI)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/UNI.svg" width="40"/> | [UNI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/UNI.svg) |
 | **USDC** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDC.svg" width="40"/> | [USDC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDC.svg) |
 | **TETHER (USDT)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg" width="40"/> | [USDT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg) |
 | **USDe** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDe.svg" width="40"/> | [USDe.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDe.svg) |
