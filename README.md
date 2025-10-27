@@ -41,6 +41,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **DAI** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DAI.svg" width="40"/> | [DAI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DAI.svg) |
 | **DOGECOIN (DOGE)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOGE.svg" width="40"/> | [DOGE.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOGE.svg) |
 | **POLKADOT (DOT)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOT.svg" width="40"/> | [DOT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOT.svg) |
+| **ETHENA (ENA)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ENA.svg" width="40"/> | [ENA.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ENA.svg) |
 | **ETHEREUM (ETH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg" width="40"/> | [ETH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/ETH.svg) |
 | **FIL** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/FIL.svg" width="40"/> | [FIL.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/FIL.svg) |
 | **HBAR** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HBAR.svg" width="40"/> | [HBAR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/HBAR.svg) |
