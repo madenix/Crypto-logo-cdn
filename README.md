@@ -62,6 +62,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **USDC** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDC.svg" width="40"/> | [USDC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDC.svg) |
 | **TETHER (USDT)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg" width="40"/> | [USDT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDT.svg) |
 | **USDe** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDe.svg" width="40"/> | [USDe.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/USDe.svg) |
+| **WLFI** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/WLFI.svg" width="40"/> | [WLFI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/WLFI.svg) |
 | **STELLAR (XLM)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XLM.svg" width="40"/> | [XLM.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XLM.svg) |
 | **MONERO (XMR)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg" width="40"/> | [XMR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XMR.svg) |
 | **XRP (Ripple)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg" width="40"/> | [XRP.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/XRP.svg) |
