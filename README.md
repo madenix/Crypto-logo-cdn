@@ -48,6 +48,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **LEO** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LEO.svg" width="40"/> | [LEO.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LEO.svg) |
 | **LINK** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LINK.svg" width="40"/> | [LINK.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LINK.svg) |
 | **LITECOIN (LTC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LTC.svg" width="40"/> | [LTC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/LTC.svg) |
+| **POLYGON (MATIC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MATIC.svg" width="40"/> | [MATIC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MATIC.svg) |
 | **MNT** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MNT.svg" width="40"/> | [MNT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/MNT.svg) |
 | **NEAR** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/NEAR.svg" width="40"/> | [NEAR.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/NEAR.svg) |
 | **SHIBA INU (SHIB)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SHIB.svg" width="40"/> | [SHIB.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/SHIB.svg) |
