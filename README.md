@@ -36,6 +36,7 @@ background: url("https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/
 | **BITCOIN CASH (BCH)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BCH.svg" width="40"/> | [BCH.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BCH.svg) |
 | **BNB** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg" width="40"/> | [BNB.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BNB.svg) |
 | **BITCOIN (BTC)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg" width="40"/> | [BTC.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/BTC.svg) |
+| **CRONOS (CRO)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/CRO.svg" width="40"/> | [CRO.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/CRO.svg) |
 | **DAI** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DAI.svg" width="40"/> | [DAI.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DAI.svg) |
 | **DOGECOIN (DOGE)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOGE.svg" width="40"/> | [DOGE.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOGE.svg) |
 | **POLKADOT (DOT)** | <img src="https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOT.svg" width="40"/> | [DOT.svg](https://cdn.jsdelivr.net/gh/madenix/Crypto-logo-cdn@main/Logos/DOT.svg) |
